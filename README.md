@@ -112,9 +112,4 @@ To set up and run the project locally, follow these steps:
 
 
 
-## Contact
 
-- [Author](https://github.com/MMansy19)
-- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-- [Email](mailto:mahmoud2abdalfattah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
